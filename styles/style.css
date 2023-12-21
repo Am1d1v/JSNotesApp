@@ -38,6 +38,10 @@ body {
   padding: 20px;
 }
 
+.main {
+  padding: 30px;
+}
+
 .tools {
   background-color: #5e84b4;
   display: flex;
